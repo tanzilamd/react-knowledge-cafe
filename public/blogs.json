@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/0XbDNs6/acoustic-guitar-chair-close-up-brown-guitar-black-wall.jpg",
+        "title": "The Enigmatic Adventure",
+        "author": "Amanda Smith",
+        "author_img": "https://i.postimg.cc/s2YZvLmb/boy1.png",
+        "posted_date": "2023-09-13",
+        "reading_time": 20,
+        "hashtags": ["fiction", "adventure", "mystery"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/fGfvHYY/mesmerizing-shot-skyscrapers-city-covered-mist-night.jpg",
+        "title": "Secrets of the Lost Kingdom",
+        "author": "John Doe",
+        "author_img": "https://i.postimg.cc/fLMSXvgy/boy2.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": 12,
+        "hashtags": ["fantasy", "discovery", "history"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/s1Gcddr/financial-charts-table-with-laptop.jpg",
+        "title": "Love in Paris",
+        "author": "Eva Johnson",
+        "author_img": "https://i.postimg.cc/tTDZzVL5/girl1.jpg",
+        "posted_date": "2023-09-11",
+        "reading_time": 15,
+        "hashtags": ["romance", "travel", "relationships"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/PYTLM5N/old-camera-notebook-laptop-with-blue-pencil-cup-cappuccino-white-background.jpg",
+        "title": "The Time Traveler's Dilemma",
+        "author": "Robert Wilson",
+        "author_img": "https://i.postimg.cc/0jQ6Xyvq/girl2.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 30,
+        "hashtags": ["sciencefiction", "timetravel", "philosophy"]
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co/0qZfjVF/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "title": "Cooking with Creativity",
+        "author": "Sophie Martinez",
+        "author_img": "https://i.postimg.cc/s2YZvLmb/boy1.png",
+        "posted_date": "2023-09-09",
+        "reading_time": 10,
+        "hashtags": ["cooking", "recipes", "culinary"]
+    }
+]
